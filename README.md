@@ -1,6 +1,9 @@
 # Tải các thư viện về trước khi chạy
 
-## Instructionf for installing Tailwindcss 
+## Demo: 
+![alt text](image.png)
+
+- Paste vào cmd:
 ```bash
 npm install -D tailwindcss postcss autoprefixer
 npx tailwindcss init --full
